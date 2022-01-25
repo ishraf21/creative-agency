@@ -2,4 +2,4 @@
 HTML, CSS and JavaScript based website
 
 
-![Creative Agency](/img/screenshot.png 'Creative Agency')
+![Creative Agency](/images/screenshot.png 'Creative Agency')
